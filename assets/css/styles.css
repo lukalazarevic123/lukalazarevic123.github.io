@@ -199,6 +199,10 @@ button.main-button:hover {
   background-color: #f1556a;
 }
 
+.tech em {
+  font-style: normal;
+  color: #fba70b;
+}
 
 .center-heading {
   margin-bottom: 70px;
